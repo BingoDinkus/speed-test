@@ -3,6 +3,7 @@
 
 # Project specific
 results*.json
+speed test results.db
 
 # Ignore patterns
 *.old.*
